@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace RecruitmentPortal.Controllers
 {
-    public class HomeController : Controller
+    public class VacanciesController : Controller
     {
         public ActionResult Detail()
         {
